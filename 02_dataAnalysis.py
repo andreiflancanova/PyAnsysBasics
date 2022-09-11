@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-d = np.loadtxt(fname='experiment01.csv', delimiter=',')
+d = np.loadtxt(fname='D:\Mestrado\PyAnsys\Learning_PyAnsys\PythonBasics\experiment01.csv', delimiter=',')
 
 print(d.shape)
 
